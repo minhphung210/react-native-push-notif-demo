@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "801626005898",
+    "firebase_url": "https://demofcm-28454.firebaseio.com",
+    "project_id": "demofcm-28454",
+    "storage_bucket": "demofcm-28454.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801626005898:android:437264d8a6710d34",
+        "android_client_info": {
+          "package_name": "com.rnfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801626005898-t74ben6ckt5t2cehj4n6odfgaufvpf14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDemMC_KHcxGFNn_YPKAN7T7QWGu5uk1L4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801626005898-t74ben6ckt5t2cehj4n6odfgaufvpf14.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "801626005898-9qoltqq3pjbvkq6gap7abi0uoq2v91di.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.RNFireBase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
